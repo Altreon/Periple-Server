@@ -1,0 +1,13 @@
+Map1
+END
+
+Map2
+0 5 3
+END
+
+Map3
+END
+
+Map4
+1 10 10
+END

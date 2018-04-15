@@ -1,0 +1,6 @@
+HP = 50
+MP = 50
+INV:
+EQU:
+FRI:
+END

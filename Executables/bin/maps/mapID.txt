@@ -1,0 +1,4 @@
+city = 0
+shop = 1
+
+test = 0

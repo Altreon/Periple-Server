@@ -1,0 +1,1 @@
+java -jar JavaGameServer.jar 2000

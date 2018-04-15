@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="10" height="10" tilewidth="32" tileheight="32" nextobjectid="1">
+ <properties>
+  <property name="Music" value="mus_waterfall.ogg"/>
+ </properties>
+ <tileset firstgid="1" name="Test" tilewidth="32" tileheight="32" tilecount="888">
+  <image source="Test.png" width="256" height="3556"/>
+  <tile id="333">
+   <properties>
+    <property name="Block" value=""/>
+   </properties>
+  </tile>
+  <tile id="334">
+   <properties>
+    <property name="Block" value=""/>
+   </properties>
+  </tile>
+  <tile id="344">
+   <properties>
+    <property name="Block" value=""/>
+   </properties>
+  </tile>
+  <tile id="345">
+   <properties>
+    <property name="Block" value=""/>
+   </properties>
+  </tile>
+  <tile id="346">
+   <properties>
+    <property name="Block" value=""/>
+   </properties>
+  </tile>
+  <tile id="348">
+   <properties>
+    <property name="Block" value=""/>
+   </properties>
+  </tile>
+  <tile id="356">
+   <properties>
+    <property name="Enter" value="DOWN"/>
+    <property name="EnterNum" value="1"/>
+    <property name="Map" value="Hub city"/>
+    <property name="NextNum" value="2"/>
+   </properties>
+  </tile>
+  <tile id="523">
+   <properties>
+    <property name="Enter" value="UP"/>
+    <property name="EnterNum" value="2"/>
+    <property name="Map" value="LobbyMap test2"/>
+    <property name="NextNum" value="1"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="Background" width="10" height="10">
+  <data encoding="base64" compression="zlib">
+   eJzTYmRg0BrFVMXmFOgFAEXzENo=
+  </data>
+ </layer>
+ <layer name="Tile" width="10" height="10">
+  <data encoding="base64" compression="zlib">
+   eJxzY2RgcAdiNyQci8YHYT8g9ofSMJyKxgdhPSDWJ4ANhpE6MyA2R8MsTKh8CyCOBOIoNMzDhMqPBmIALCgWjA==
+  </data>
+ </layer>
+ <layer name="Decor" width="10" height="10">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFgwkAAAGQAAE=
+  </data>
+ </layer>
+ <layer name="Pnj" width="10" height="10">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFgwkAAAGQAAE=
+  </data>
+ </layer>
+</map>
